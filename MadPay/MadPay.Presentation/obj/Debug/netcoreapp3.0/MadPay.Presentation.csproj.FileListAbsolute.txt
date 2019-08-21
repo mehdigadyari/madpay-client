@@ -1,4 +1,0 @@
-D:\aaa\projects\0-pay\PayClient\MadPay\MadPay.Presentation\obj\Debug\netcoreapp3.0\MadPay.Presentation.csprojAssemblyReference.cache
-D:\aaa\projects\0-pay\PayClient\MadPay\MadPay.Presentation\obj\Debug\netcoreapp3.0\MadPay.Presentation.csproj.CoreCompileInputs.cache
-D:\aaa\projects\0-pay\PayClient\MadPay\MadPay.Presentation\obj\Debug\netcoreapp3.0\MadPay.Presentation.AssemblyInfoInputs.cache
-D:\aaa\projects\0-pay\PayClient\MadPay\MadPay.Presentation\obj\Debug\netcoreapp3.0\MadPay.Presentation.AssemblyInfo.cs
